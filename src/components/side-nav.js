@@ -12,6 +12,14 @@ export default function SideNav(props) {
       ]
     },
     {
+      header: "Throwing",
+      items: [
+        { linkTitle: "Breakdown", route: "/properthrowing", parent: true },
+        { linkTitle: "Progression", route: "/throwingprogression", parent: true },
+        { linkTitle: "Warm-ups", route: "/throwingwarmups", parent: true },
+      ]
+    },
+    {
       header: "Other things",
       items: [
         { linkTitle: "About me", route: "/about", parent: true },

@@ -26,8 +26,12 @@ import SideNav from './components/side-nav';
 import {
   Home,
   About,
+  Warmups,
+  Properthrowing,
+  Throwingwarmups,
+  Throwingprogression,
   Practice002,
-  Warmups
+
 } from './content/docsExport';
 
 function App() {
@@ -49,6 +53,9 @@ function App() {
             {/* Home */}
             <Route exact path='/' component={Home} />
             <Route exact path="/about"><About /></Route>
+            <Route exact path="/properthrowing"><Properthrowing /></Route>
+            <Route exact path="/throwingwarmups"><Throwingwarmups /></Route>
+            <Route exact path="/throwingprogression"><Throwingprogression /></Route>
 
             {/* Blog */}
             <Route exact path="/blog/warmups"><Warmups /></Route>
