@@ -13,9 +13,9 @@ The schedule template shown below encompasses 90 minutes of practice time.
 
 | Time | Station | Activity | Location |
 | --- | --- | --- | --- |
-| 00:00 - 00:05 | Intro | Practice intro, rules and today’s expectations   | LF |
+| 00:00 - 00:05 | Intro | Practice intro, rules and today’s expectations   | DO |
 | 00:05 - 00:10 | Warm-ups | Stretch and physical warm-ups (warm-up list) | OF |
-| 00:10 - 00:20 |  | [Throwing/shoulder warm-ups](https://www.youtube.com/watch?v=BomXCfnLl7Q&ab_channel=ChristopherTirao) †† | 3B L |
+| 00:10 - 00:20 |  | Throwing/shoulder warm-ups †† | 3B L |
 | 00:20 - 00:25 | Classroom | Today’s classroom | DO |
 | 00:25 - 00:30 | Base running | Base running skills station | 1B |
 | 00:30 - 01:00 | Infield | Infield drill station  | SS |
@@ -27,7 +27,7 @@ The schedule template shown below encompasses 90 minutes of practice time.
 
 †† Throwing/shoulder warms ups are to be done at a relaxed pace. Girls should not be throwing hard or exerting themselves. DO NOT throw open-chested towards other player. Players should be facing each other side to side.
 
-As players move further apart, the step-stride (a little hop) should be done with the throw.
+As players move further apart, the step-stride (little hop) should be done with the throw. Watch the footwork.
 
 
 <link rel="stylesheet" href="https://unpkg.com/@alaskaairux/design-tokens@latest/dist/tokens/CSSCustomProperties.css" />

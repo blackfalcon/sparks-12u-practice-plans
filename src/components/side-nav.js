@@ -20,11 +20,17 @@ export default function SideNav(props) {
       ]
     },
     {
-      header: "Other things",
+      header: "Hitting",
       items: [
-        { linkTitle: "About me", route: "/about", parent: true },
+        { linkTitle: "Breakdown", route: "/properhitting", parent: true },
       ]
-    }
+    },
+    // {
+    //   header: "Other things",
+    //   items: [
+    //     { linkTitle: "About me", route: "/about", parent: true },
+    //   ]
+    // }
   ]);
 
   return (
@@ -63,10 +69,11 @@ export default function SideNav(props) {
         </Fragment>
       ))}
 
-      {/* <p className="auro_heading auro_heading--500" style={{"margin-top": "100px"}}>Social</p>
-      <auro-hyperlink href="https://twitter.com/anotheruiguy" nav target="_blank">Follow me on Twitter</auro-hyperlink>
+      <p className="auro_heading auro_heading--500" style={{"margin-top": "100px"}}>YouTube</p>
+      <auro-hyperlink href="https://www.youtube.com/c/MegRemSoftball/videos" nav target="_blank">MegRem Softball</auro-hyperlink>
+      <auro-hyperlink href="https://www.youtube.com/c/ZONEDSportsAcademy/videos" nav target="_blank">ZONEDSportsAcademy</auro-hyperlink>
 
-      <p className="auro_heading auro_heading--500">Feedback</p>
+      {/* <p className="auro_heading auro_heading--500">Feedback</p>
       <small>Have feedback on a post?<br/>Ideas for a new post?</small>
       <auro-hyperlink href="https://github.com/blackfalcon/another-ui-blog/issues" nav target="_blank">Send me an issue</auro-hyperlink> */}
     </nav>
