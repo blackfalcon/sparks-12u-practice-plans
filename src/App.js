@@ -31,7 +31,9 @@ import {
   Throwingwarmups,
   Throwingprogression,
   Properhitting,
+
   Practice002,
+  Practice003,
 
 } from './content/docsExport';
 
@@ -62,6 +64,7 @@ function App() {
             {/* Blog */}
             <Route exact path="/blog/warmups"><Warmups /></Route>
             <Route exact path="/blog/practice002"><Practice002 /></Route>
+            <Route exact path="/blog/practice003"><Practice003 /></Route>
 
             {/* 404 */}
             <Route path="*"><NotFound /></Route>

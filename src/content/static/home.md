@@ -8,22 +8,27 @@ All stations run on a 10min clock<br>Coach will announce ROTATE and players are 
 It is important that all players arrive at least 10 min prior to schedule time start. Practice will start precisely <code>00:00</code> of scheduled time.
 </auro-alert>
 
-The schedule template shown below encompasses 90 minutes of practice time.
+### [Next practice](/blog/practice003)
+<auro-datetime utc="2022-09-18T00:01:00Z" month="long"></auro-datetime>
 
+### [Last practice](/blog/practice002)
+<auro-datetime utc="2022-09-11T00:01:00Z" month="long"></auro-datetime>
+
+### Practice plan template
 
 | Time | Station | Activity | Location |
 | --- | --- | --- | --- |
 | 00:00 - 00:05 | Intro | Practice intro, rules and today’s expectations   | DO |
-| 00:05 - 00:10 | Warm-ups | Stretch and physical warm-ups (warm-up list) | OF |
-| 00:10 - 00:20 |  | Throwing/shoulder warm-ups †† | 3B L |
-| 00:20 - 00:25 | Classroom | Today’s classroom | DO |
-| 00:25 - 00:30 | Base running | Base running skills station | 1B |
-| 00:30 - 01:00 | Infield | Infield drill station  | SS |
+| 00:05 - 00:15 | Warm-ups | Stretch and physical warm-ups (warm-up list) | HP |
+| 00:15 - 00:30 |  | Throwing/shoulder warm-ups †† | 1B L |
+| 00:35 - 00:45 | Classroom | Today’s classroom | DO |
+| 00:45 - 01:00 | Base running | Base running skills station | 1B |
+| 00:45 - 01:00 | Defense | Situational defense play | 1B |
+| 01:00 - 01:10 | Break | | DO |
+| 01:10 - 01:40 | Infield | Infield drill station  | SS |
 | | Outfield | Outfield drill station | CF |
 | | Batting | Batting station (skills balls or off tee) | OF |
-| 01:00 - 01:05 | | Break | DO |
-| 01:05 - 01:15 |Defense | Situational defense play | FF |
-| 01:15 - 01:30 | Batting | Live pitching / machine | FF |
+| 01:40 - 02:00 | Batting | Live pitching / machine | FF |
 
 †† Throwing/shoulder warms ups are to be done at a relaxed pace. Girls should not be throwing hard or exerting themselves. DO NOT throw open-chested towards other player. Players should be facing each other side to side.
 
