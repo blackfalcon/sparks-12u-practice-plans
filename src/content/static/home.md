@@ -34,7 +34,7 @@ It is important that all players arrive at least <code>10min</code> prior to sch
 
 As players move further apart, the step-stride (little hop) should be done with the throw. Watch the footwork.
 
-/* This time slot will fluctuate between base and defense drills based on the needs of the practice.
+\* This time slot will fluctuate between base running and defensive drills based on the needs of the practice.
 
 ## Game plans
 
@@ -44,6 +44,10 @@ It is important that all players arrive at least <code>1hr</code> prior to sched
 
 ### [Next game](/blog/game091622)
 <auro-datetime utc="2022-09-16T00:01:00Z" month="long"></auro-datetime>
+
+## Coach resources
+
+* [Player evaluations](https://forms.gle/Mx3miX4xVKAuSihB7)
 
 
 <link rel="stylesheet" href="https://unpkg.com/@alaskaairux/design-tokens@latest/dist/tokens/CSSCustomProperties.css" />
