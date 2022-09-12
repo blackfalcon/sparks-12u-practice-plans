@@ -1,11 +1,11 @@
 ## Stods Sparks Practice Plans
 
 <auro-alert type="information" style="margin-bottom: 2rem">
-All stations run on a 10min clock<br>Coach will announce ROTATE and players are expected to RUN to the next station.
+All stations run on a <code>10min</code> clock<br>Coach will announce ROTATE and players are expected to RUN to the next station.
 </auro-alert>
 
 <auro-alert type="information" style="margin-bottom: 2rem">
-It is important that all players arrive at least 10 min prior to schedule time start. Practice will start precisely <code>00:00</code> of scheduled time.
+It is important that all players arrive at least <code>10min</code> prior to schedule time start. Practice will start precisely <code>00:00</code> of scheduled time.
 </auro-alert>
 
 ### [Next practice](/blog/practice003)
@@ -22,8 +22,8 @@ It is important that all players arrive at least 10 min prior to schedule time s
 | 00:05 - 00:15 | Warm-ups | Stretch and physical warm-ups (warm-up list) | HP |
 | 00:15 - 00:30 |  | Throwing/shoulder warm-ups †† | 1B L |
 | 00:35 - 00:45 | Classroom | Today’s classroom | DO |
-| 00:45 - 01:00 | Base running | Base running skills station | 1B |
-| 00:45 - 01:00 | Defense | Situational defense play | 1B |
+| 00:45 - 01:00* | Base running | Base running skills station | 1B |
+| 00:45 - 01:00* | Defense | Situational defense play | FF |
 | 01:00 - 01:10 | Break | | DO |
 | 01:10 - 01:40 | Infield | Infield drill station  | SS |
 | | Outfield | Outfield drill station | CF |
@@ -33,6 +33,17 @@ It is important that all players arrive at least 10 min prior to schedule time s
 †† Throwing/shoulder warms ups are to be done at a relaxed pace. Girls should not be throwing hard or exerting themselves. DO NOT throw open-chested towards other player. Players should be facing each other side to side.
 
 As players move further apart, the step-stride (little hop) should be done with the throw. Watch the footwork.
+
+/* This time slot will fluctuate between base and defense drills based on the needs of the practice.
+
+## Game plans
+
+<auro-alert type="information" style="margin-bottom: 2rem">
+It is important that all players arrive at least <code>1hr</code> prior to schedule game start. Players are to start warm-ups as soon as they arrive.
+</auro-alert>
+
+### [Next game](/blog/game091622)
+<auro-datetime utc="2022-09-16T00:01:00Z" month="long"></auro-datetime>
 
 
 <link rel="stylesheet" href="https://unpkg.com/@alaskaairux/design-tokens@latest/dist/tokens/CSSCustomProperties.css" />
