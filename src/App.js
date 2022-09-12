@@ -27,6 +27,7 @@ import {
   Home,
   About,
   Warmups,
+  Gamewarmups,
   Properthrowing,
   Throwingwarmups,
   Throwingprogression,
@@ -34,6 +35,8 @@ import {
 
   Practice002,
   Practice003,
+
+  Game091622,
 
 } from './content/docsExport';
 
@@ -56,6 +59,7 @@ function App() {
             {/* Home */}
             <Route exact path='/' component={Home} />
             <Route exact path="/about"><About /></Route>
+            <Route exact path="/gamewarmups"><Gamewarmups /></Route>
             <Route exact path="/properthrowing"><Properthrowing /></Route>
             <Route exact path="/throwingwarmups"><Throwingwarmups /></Route>
             <Route exact path="/throwingprogression"><Throwingprogression /></Route>
@@ -65,6 +69,9 @@ function App() {
             <Route exact path="/blog/warmups"><Warmups /></Route>
             <Route exact path="/blog/practice002"><Practice002 /></Route>
             <Route exact path="/blog/practice003"><Practice003 /></Route>
+
+            {/* Games */}
+            <Route exact path="/blog/game091622"><Game091622 /></Route>
 
             {/* 404 */}
             <Route path="*"><NotFound /></Route>

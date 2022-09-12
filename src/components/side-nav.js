@@ -5,9 +5,14 @@ export default function SideNav(props) {
 
   const [siteNav, setNav] = useState([
     {
+      items: [
+        { linkTitle: "Practice warm-ups", route: "/blog/warmups", parent: true },
+        { linkTitle: "Pre-game warm-ups", route: "/gamewarmups", parent: true },
+      ]
+    },
+    {
       header: "Practice plans",
       items: [
-        { linkTitle: "Team warm-ups", route: "/blog/warmups", parent: true },
         { linkTitle: "003: 9.18", route: "/blog/practice003", parent: true },
         { linkTitle: "002: 9.11", route: "/blog/practice002", parent: true },
       ]
@@ -24,6 +29,12 @@ export default function SideNav(props) {
       header: "Hitting",
       items: [
         { linkTitle: "Breakdown", route: "/properhitting", parent: true },
+      ]
+    },
+    {
+      header: "Games",
+      items: [
+        { linkTitle: "09.16.22 Fury Red", route: "/blog/game091622", parent: true },
       ]
     },
     // {
