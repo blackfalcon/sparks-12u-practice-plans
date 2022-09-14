@@ -85,12 +85,20 @@
   margin-top: 0;
 }
 
+.menuCheckbox {
+  opacity: 0;
+}
+
 .menuCheckbox,
 .menuCheckbox--label {
   position: fixed;
   bottom: 50px;
   right: 30px;
   z-index: 299;
+  background-color: orange;
+  height: 85%;
+  width: 25px;
+
 
   @include auro_breakpoint--sm {
     display: none;
@@ -98,6 +106,8 @@
 }
 
 .menuCheckbox--label {
+  height: 0;
+
   &::before {
     display: block;
     position: absolute;
@@ -108,13 +118,14 @@
     background-color: var(--auro-color-background-lighter);
     box-shadow: 0px 0px 10px #222;
     right: -12px;
-    top: -13px;
+    bottom: 0;
     z-index: -1;
   }
 }
 
 .menuIcon {
   display: block;
+  margin-top: -150%;
 
   @include auro_breakpoint--sm {
     display: none;
@@ -123,6 +134,7 @@
 
 .closeIcon {
   display: none;
+  margin-top: -150%;
 }
 
 .menuCheckbox:checked + .menuCheckbox--label {
@@ -145,6 +157,7 @@
       margin-left: 0;
       padding-left: 30px;
       padding-top: 50px;
+      padding-bottom: 20vh;
     }
   }
 }
