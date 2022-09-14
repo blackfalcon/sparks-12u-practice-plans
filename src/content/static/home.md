@@ -49,6 +49,8 @@ It is important that all players arrive at least <code>1hr</code> prior to sched
 
 * [Player evaluations](https://forms.gle/Mx3miX4xVKAuSihB7)
 
+![Stods sparks wordmark logo](/images/sparks-wordmark.png)
+
 
 <link rel="stylesheet" href="https://unpkg.com/@alaskaairux/design-tokens@latest/dist/tokens/CSSCustomProperties.css" />
 <link rel="stylesheet" href="https://unpkg.com/@alaskaairux/webcorestylesheets@latest/dist/bundled/essentials.css" />

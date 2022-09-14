@@ -38,7 +38,7 @@
   padding-left: var(--auro-size-xxs);
 
   &-title {
-    color: var(--auro-color-brand-breeze-400);
+    color: var(--auro-color-brand-atlas-300);
     font-size: var(--auro-size-xl);
     line-height: 1;
   }
@@ -47,4 +47,9 @@
     line-height: 1;
     color: var(--auro-color-base-gray-400);
   }
+}
+
+.logo-icon {
+  width: 59px;
+  height: 59px;
 }
