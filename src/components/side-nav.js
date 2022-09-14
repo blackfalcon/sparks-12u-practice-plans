@@ -81,9 +81,16 @@ export default function SideNav(props) {
         </Fragment>
       ))}
 
-      <p className="auro_heading auro_heading--500" style={{"margin-top": "100px"}}>YouTube</p>
-      <auro-hyperlink href="https://www.youtube.com/c/MegRemSoftball/videos" nav target="_blank">MegRem Softball</auro-hyperlink>
+      <p className="auro_heading auro_heading--500" style={{"margin-top": "20px"}}>YouTube 4 players</p>
+      <auro-hyperlink href="https://www.youtube.com/c/MegRemSoftball/videos" nav target="_blank">MegRem Softball</auro-hyperlink><br/>
       <auro-hyperlink href="https://www.youtube.com/c/ZONEDSportsAcademy/videos" nav target="_blank">ZONEDSportsAcademy</auro-hyperlink>
+
+      <p className="auro_heading auro_heading--300" style={{"margin-top": "100px"}}>Coaching resources</p>
+      <auro-hyperlink href="https://forms.gle/Mx3miX4xVKAuSihB7" nav target="_blank">Player evaluation</auro-hyperlink>
+
+
+
+
 
       {/* <p className="auro_heading auro_heading--500">Feedback</p>
       <small>Have feedback on a post?<br/>Ideas for a new post?</small>

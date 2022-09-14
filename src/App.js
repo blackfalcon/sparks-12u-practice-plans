@@ -59,7 +59,7 @@ function App() {
             {/* Home */}
             <Route exact path='/' component={Home} />
             <Route exact path="/about"><About /></Route>
-            <Route exact path="/blog/gamewarmups"><Gamewarmups /></Route>
+            <Route exact path="/gamewarmups"><Gamewarmups /></Route>
             <Route exact path="/properthrowing"><Properthrowing /></Route>
             <Route exact path="/throwingwarmups"><Throwingwarmups /></Route>
             <Route exact path="/throwingprogression"><Throwingprogression /></Route>

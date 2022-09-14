@@ -45,10 +45,6 @@ It is important that all players arrive at least <code>1hr</code> prior to sched
 ### [Next game](/blog/game091622)
 <auro-datetime utc="2022-09-16T00:01:00Z" month="long"></auro-datetime>
 
-## Coach resources
-
-* [Player evaluations](https://forms.gle/Mx3miX4xVKAuSihB7)
-
 ![Stods sparks wordmark logo](/images/sparks-wordmark.png)
 
 
