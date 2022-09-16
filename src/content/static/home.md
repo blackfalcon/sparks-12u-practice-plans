@@ -11,8 +11,17 @@ It is important that all players arrive at least <code>10min</code> prior to sch
 ### [Next practice](/blog/practice003)
 <auro-datetime utc="2022-09-18T00:01:00Z" month="long"></auro-datetime>
 
-### [Last practice](/blog/practice002)
+### [Previous practice](/blog/practice002)
 <auro-datetime utc="2022-09-11T00:01:00Z" month="long"></auro-datetime>
+
+<!-- ## Game plans -->
+
+<!-- <auro-alert type="information" style="margin-bottom: 2rem">
+It is important that all players arrive at least <code>1hr</code> prior to schedule game start. Players are to start warm-ups as soon as they arrive.
+</auro-alert> -->
+
+<!-- ### [Next game](/blog/game091622)
+<auro-datetime utc="2022-09-16T00:01:00Z" month="long"></auro-datetime> -->
 
 ### Practice plan template
 
@@ -35,15 +44,6 @@ It is important that all players arrive at least <code>10min</code> prior to sch
 As players move further apart, the step-stride (little hop) should be done with the throw. Watch the footwork.
 
 \* This time slot will fluctuate between base running and defensive drills based on the needs of the practice.
-
-## Game plans
-
-<auro-alert type="information" style="margin-bottom: 2rem">
-It is important that all players arrive at least <code>1hr</code> prior to schedule game start. Players are to start warm-ups as soon as they arrive.
-</auro-alert>
-
-### [Next game](/blog/game091622)
-<auro-datetime utc="2022-09-16T00:01:00Z" month="long"></auro-datetime>
 
 ![Stods sparks wordmark logo](/images/sparks-wordmark.png)
 

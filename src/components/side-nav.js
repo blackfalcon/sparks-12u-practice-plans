@@ -31,12 +31,12 @@ export default function SideNav(props) {
         { linkTitle: "Breakdown", route: "/properhitting", parent: true },
       ]
     },
-    {
-      header: "Games",
-      items: [
-        { linkTitle: "09.16.22 Fury Red", route: "/blog/game091622", parent: true },
-      ]
-    },
+    // {
+    //   header: "Games",
+    //   items: [
+    //     { linkTitle: "09.16.22 Fury Red", route: "/blog/game091622", parent: true },
+    //   ]
+    // },
     // {
     //   header: "Other things",
     //   items: [
@@ -81,7 +81,7 @@ export default function SideNav(props) {
         </Fragment>
       ))}
 
-      <p className="auro_heading auro_heading--500" style={{"margin-top": "20px"}}>YouTube 4 players</p>
+      <p className="auro_heading auro_heading--500" style={{"margin-top": "30px"}}>YouTube</p>
       <auro-hyperlink href="https://www.youtube.com/c/MegRemSoftball/videos" nav target="_blank">MegRem Softball</auro-hyperlink><br/>
       <auro-hyperlink href="https://www.youtube.com/c/ZONEDSportsAcademy/videos" nav target="_blank">ZONEDSportsAcademy</auro-hyperlink>
 
