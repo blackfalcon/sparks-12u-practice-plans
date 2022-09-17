@@ -4,7 +4,13 @@
 Batting tee and nets will need to be set up BEFORE batting station starts <code>01:00</code>.
 </auro-alert>
 
-| Time | Station | Activity | Coach | Location |
+<auro-alert type="warning" style="margin-bottom: 2rem">
+Practice schedule is being revised
+</auro-alert>
+
+
+
+<!-- | Time | Station | Activity | Coach | Location |
 | --- | --- | --- | --- | --- |
 | 00:00 - 00:05 | Intro | Practice intro, rules and today’s expectations  | Coach Victor and Coach Dale | DO |
 | 00:05 - 00:15 | Warm-ups | Stretch and physical warm-ups (warm-up list) | Player led | HP |
@@ -24,9 +30,9 @@ Batting tee and nets will need to be set up BEFORE batting station starts <code>
 
 | Time | Station | Activity | Coach | Location |
 | --- | --- | --- | --- | --- |
-| 01:30 - 02:00 | Batting | Blue flame batting | Dad help | FF |
+| 01:30 - 02:00 | Batting | Blue flame batting | Dad help | FF | -->
 
-### Defense
+<!-- ### Defense
 
 After demonstrating the [sweep and tag](https://www.youtube.com/watch?v=jJUhGMrxdcs&ab_channel=SKLZBaseball) drill, players will line up at 2B to perform the task. A coach or dad will call out __TAG__ or __FORCE__ and throw the ball to 2B.
 
@@ -48,7 +54,7 @@ Players are to work with a dad or coach to perform the [8 ball drill](https://ww
 
 ### Batting
 
-Players can bat into net off tee, soft toss or be tossed skills balls. Reps reps reps. Please review the [proper hitting](/properhitting) mechanics page for instruction.
+Players can bat into net off tee, soft toss or be tossed skills balls. Reps reps reps. Please review the [proper hitting](/properhitting) mechanics page for instruction. -->
 
 
 <link rel="stylesheet" href="https://unpkg.com/@alaskaairux/design-tokens@latest/dist/tokens/CSSCustomProperties.css" />
