@@ -1,16 +1,22 @@
 # Sparks Practice (003) 9.18.22
 
-<auro-alert type="information" style="margin-bottom: 2rem">
-Batting tee and nets will need to be set up BEFORE batting station starts <code>01:00</code>.
+<auro-alert type="warning" style="margin-bottom: 1rem">
+No batting nets with tees will be needed today.
 </auro-alert>
 
-<auro-alert type="warning" style="margin-bottom: 2rem">
-Practice schedule is being revised
+<auro-alert type="warning" style="margin-bottom: 1rem">
+Pitching machine required.
 </auro-alert>
 
+<auro-alert type="warning" style="margin-bottom: 1rem">
+Catchers gear required.
+</auro-alert>
 
+<auro-alert type="warning" style="margin-bottom: 1rem">
+This practice schedule was updated at <auro-datetime type="tzDate" setDate="2022-09-17T22:57:00-07:00"></auro-datetime> at <auro-datetime type="tzTime" setDate="2022-09-17T22:57:00-07:00"></auro-datetime>.
+</auro-alert>
 
-<!-- | Time | Station | Activity | Coach | Location |
+| Time | Station | Activity | Coach | Location |
 | --- | --- | --- | --- | --- |
 | 00:00 - 00:05 | Intro | Practice intro, rules and today’s expectations  | Coach Victor and Coach Dale | DO |
 | 00:05 - 00:15 | Warm-ups | Stretch and physical warm-ups (warm-up list) | Player led | HP |
@@ -20,8 +26,11 @@ Practice schedule is being revised
 
 | Time | Station | Activity | Coach | Location |
 | --- | --- | --- | --- | --- |
-| 00:35 - 00:50 | Defense | [Force vs. Tag Plays (sweep and tag)](https://www.youtube.com/watch?v=jJUhGMrxdcs&ab_channel=SKLZBaseball) | Coach Victor and Coach Dale | FF |
+| 00:30 - 00:55 | Classroom | Game review | Coach Victor and Coach Dale | DO |
+| 00:55 - 01:05 | Infield | Stealing bases | Coach Victor and Coach Dale | H, 1B, 2B |
+| 01:05 - 02:00 | Batting/fielding | Blue flame batting / situational play | Coach Victor and Coach Dale | FF |
 
+<!--
 | Time | Station | Activity | Coach | Location |
 | --- | --- | --- | --- | --- |
 | 01:00 - 01:30 | Infield | [3 cone drill](https://www.youtube.com/watch?v=QaXiNUOzJ2k&ab_channel=ZONEDSportsAcademy) | TBD | SS |
@@ -30,7 +39,35 @@ Practice schedule is being revised
 
 | Time | Station | Activity | Coach | Location |
 | --- | --- | --- | --- | --- |
-| 01:30 - 02:00 | Batting | Blue flame batting | Dad help | FF | -->
+| 01:30 - 02:00 | Batting | Blue flame batting | Dad help | FF |
+-->
+
+### Intro
+
+Let's talk about practice and pre-game warm up expectations.
+
+__Pre-game warm ups__
+
+Due to limited time and the rolling in of players, we are suggesting a `get a buddy` system. What this means is, as players get the the field, please grab a buddy and begin the full warm up routine.
+
+* Stretch
+* Throwing progressions
+* Batting station on tee
+* Fly and ground balls w/coaches
+
+Pitchers and catchers should be warming up together.
+
+### Classroom
+
+Let's review the last game, what we did great and where we need to improve. During this time the players will be asked to fill out sticky-notes and list out things that they thought went well and things that we could improve on from the last game.
+
+The goal of this exercise is to allow the players to communicate to the coaches what they saw, not what the coaches saw.
+
+### Batting/fielding
+
+Post-classroom we want the players to take the full field. With help from Coach Richard and the pitching machine + live pitching, let's play a game. Coach Dale and Coach Victor will observe the play and help explain situations as they happen.
+
+To play, we will put 8/9 players on the field and the remaining players will be hitters. Once a player hits, at the end of their play they will swap out a player in the field. We will want to play as if this is a real game!
 
 <!-- ### Defense
 
