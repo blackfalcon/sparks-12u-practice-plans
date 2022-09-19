@@ -13,6 +13,7 @@ export default function SideNav(props) {
     {
       header: "Practice plans",
       items: [
+        { linkTitle: "004: 10.2", route: "/blog/practice004", parent: true },
         { linkTitle: "003: 9.18", route: "/blog/practice003", parent: true },
         { linkTitle: "002: 9.11", route: "/blog/practice002", parent: true },
       ]

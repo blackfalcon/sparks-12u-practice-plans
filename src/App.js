@@ -35,6 +35,7 @@ import {
 
   Practice002,
   Practice003,
+  Practice004,
 
   Game091622,
 
@@ -69,6 +70,7 @@ function App() {
             <Route exact path="/blog/warmups"><Warmups /></Route>
             <Route exact path="/blog/practice002"><Practice002 /></Route>
             <Route exact path="/blog/practice003"><Practice003 /></Route>
+            <Route exact path="/blog/practice004"><Practice004 /></Route>
 
             {/* Games */}
             <Route exact path="/blog/game091622"><Game091622 /></Route>

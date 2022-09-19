@@ -32,3 +32,27 @@ $important: true;
 // Table
 /* ------------------------ Table ------------------------ */
 @import "~@alaskaairux/webcorestylesheets/dist/componentSupport/table";
+
+
+@media print {
+  auro-alert,
+  small,
+  .menuCheckbox--label {
+    display: none;
+  }
+}
+
+[type='cta'] {
+  display: block;
+  margin-bottom: 0.5rem;
+
+  @media (min-width: 500px) {
+    display: inline-block;
+  }
+}
+
+[alt*="wordmark"] {
+  @media (min-width: 500px) {
+    display: none;
+  }
+}

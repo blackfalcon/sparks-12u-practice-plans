@@ -8,11 +8,19 @@ All stations run on a <code>10min</code> clock<br>Coach will announce ROTATE and
 It is important that all players arrive at least <code>10min</code> prior to schedule time start. Practice will start precisely <code>00:00</code> of scheduled time.
 </auro-alert>
 
-### [Next practice](/blog/practice003)
-<auro-datetime utc="2022-09-18T00:01:00Z" month="long"></auro-datetime>
+<auro-hyperlink type="cta" relative href="/blog/practice003">
+  Pre-Game Warm-ups
+</auro-hyperlink>
+<auro-hyperlink type="cta" relative href="/blog/warmups">
+  Practice Warm-ups
+</auro-hyperlink>
 
-### [Previous practice](/blog/practice002)
-<auro-datetime utc="2022-09-11T00:01:00Z" month="long"></auro-datetime>
+<auro-hyperlink type="cta" relative href="/blog/practice003">
+  <auro-icon category="interface" name="chevron-left" customColor style="line-height: 1"></auro-icon> Last Practice
+</auro-hyperlink>
+<auro-hyperlink type="cta" relative href="/blog/practice004">
+  Next Practice <auro-icon category="interface" name="chevron-right" customColor style="line-height: 1"></auro-icon>
+</auro-hyperlink>
 
 <!-- ## Game plans -->
 
@@ -23,7 +31,7 @@ It is important that all players arrive at least <code>1hr</code> prior to sched
 <!-- ### [Next game](/blog/game091622)
 <auro-datetime utc="2022-09-16T00:01:00Z" month="long"></auro-datetime> -->
 
-### Practice plan template
+<!-- ### Practice plan template
 
 | Time | Station | Activity | Location |
 | --- | --- | --- | --- |
@@ -43,7 +51,7 @@ It is important that all players arrive at least <code>1hr</code> prior to sched
 
 As players move further apart, the step-stride (little hop) should be done with the throw. Watch the footwork.
 
-\* This time slot will fluctuate between base running and defensive drills based on the needs of the practice.
+\* This time slot will fluctuate between base running and defensive drills based on the needs of the practice. -->
 
 ![Stods sparks wordmark logo](/images/sparks-wordmark.png)
 
