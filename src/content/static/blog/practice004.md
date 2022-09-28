@@ -2,6 +2,10 @@
 
 <small>All practices are subject to change up to the time of practice.</small>
 
+<auro-alert type="error" style="margin-bottom: 1rem">
+Coach Dale will not be attending this practice, this schedule is subject to change.
+</auro-alert>
+
 <auro-alert type="information" style="margin-bottom: 1rem">
 Batting tee and nets will need to be set up BEFORE batting station starts 00:30.
 </auro-alert>
@@ -12,7 +16,7 @@ Catchers gear required
 
 | Time | Station | Activity | Coach | Location |
 | --- | --- | --- | --- | --- |
-| 00:00 - 00:05 | Intro | Practice intro, rules and today’s expectations  | Coach Victor and Coach Dale | DO |
+| 00:00 - 00:05 | Intro | Practice intro, rules and today’s expectations  | Coach Victor | DO |
 | 00:05 - 00:15 | Warm-ups | Stretch and physical warm-ups (warm-up list) | Player led | HP |
 | 00:15 - 00:20 || [One-knee drill](https://www.youtube.com/watch?t=86&v=BomXCfnLl7Q&feature=youtu.be&ab_channel=ChristopherTirao) | Player led | 1B L |
 | 00:20 - 00:25 || [Side straddle position](https://www.youtube.com/watch?v=BomXCfnLl7Q&t=210s&ab_channel=ChristopherTirao) | Player led | 1B L |
@@ -26,7 +30,7 @@ Catchers gear required
 
 | Time | Station | Activity | Coach | Location |
 | --- | --- | --- | --- | --- |
-| 01:00 - 02:00 | Batting/fielding | Blue flame batting / situational play | Coach Victor and Coach Dale | FF |
+| 01:00 - 02:00 | Batting/fielding | Blue flame batting / situational play | Coach Victor | FF |
 
 ### Batting/fielding
 
