@@ -21,19 +21,13 @@ The following is a series of at-home drills players should be working on. It's t
       <iframe src="https://www.youtube.com/embed/l6acW2KkhiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
+  <div>
+    <h4>Framing Drill </h4>
+    <div class="video_wrapper">
+      <iframe src="https://www.youtube.com/embed/FdaT2HgqwhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <style>
 .video_wrapper {
@@ -61,6 +55,7 @@ The following is a series of at-home drills players should be working on. It's t
   .this-wrapper {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
   }
 }
 </style>

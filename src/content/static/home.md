@@ -8,7 +8,7 @@ All stations run on a <code>10min</code> clock<br>Coach will announce ROTATE and
 It is important that all players arrive at least <code>10min</code> prior to schedule time start. Practice will start precisely <code>00:00</code> of scheduled time.
 </auro-alert>
 
-<auro-hyperlink type="cta" relative href="/blog/practice003">
+<auro-hyperlink type="cta" relative href="/gamewarmups">
   Pre-Game Warm-ups
 </auro-hyperlink>
 <auro-hyperlink type="cta" relative href="/blog/warmups">
