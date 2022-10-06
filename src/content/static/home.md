@@ -1,10 +1,6 @@
 ## Stods Sparks Practice Plans
 
 <auro-alert type="information" style="margin-bottom: 2rem">
-All stations run on a <code>10min</code> clock<br>Coach will announce ROTATE and players are expected to RUN to the next station.
-</auro-alert>
-
-<auro-alert type="information" style="margin-bottom: 2rem">
 It is important that all players arrive at least <code>10min</code> prior to schedule time start. Practice will start precisely <code>00:00</code> of scheduled time.
 </auro-alert>
 
@@ -15,10 +11,10 @@ It is important that all players arrive at least <code>10min</code> prior to sch
   Practice Warm-ups
 </auro-hyperlink>
 
-<auro-hyperlink type="cta" relative href="/blog/practice003">
+<auro-hyperlink type="cta" relative href="/blog/practice004">
   <auro-icon category="interface" name="chevron-left" customColor style="line-height: 1"></auro-icon> Last Practice
 </auro-hyperlink>
-<auro-hyperlink type="cta" relative href="/blog/practice004">
+<auro-hyperlink type="cta" relative href="/blog/practice005">
   Next Practice <auro-icon category="interface" name="chevron-right" customColor style="line-height: 1"></auro-icon>
 </auro-hyperlink>
 
