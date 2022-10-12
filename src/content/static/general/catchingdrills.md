@@ -1,6 +1,8 @@
 # At-home catching drills
 
-The following is a series of at-home drills players should be working on. It's the recommendation of the coaches that if the player doesn't have a scheduled practice that she should be working on one or more of these drills for at least 30 min.
+The following is a series of at-home drills players should be working on. There are many drills the players can be working on, this is only a currently recommended set. If you find a drill you like, please do it and let the coaches know.
+
+It's the recommendation of the coaches that if the player doesn't have a scheduled practice that she should be working on one or more of these drills for at least 30 min. We will also be working on these skills during regular practices throughout the year.
 
 <div class="this-wrapper">
   <div>

@@ -1,6 +1,6 @@
 // DO NOT EDIT! 
 // This doc was auto generated from ./src/scripts/build-page-imports.js 
-// Tue Oct 11 2022 19:18:08 GMT-0700 (Pacific Daylight Time)
+// Wed Oct 12 2022 09:10:19 GMT-0700 (Pacific Daylight Time)
       
 // Import primary markdown tools
 import {InternalMarkdownWrapper} from '../components/rawMarkdownWrapper';
@@ -15,6 +15,7 @@ import Practice006Page from './static/blog/practice006.md';
 import WarmupsPage from './static/blog/warmups.md'; 
 import AboutPage from './static/general/about.md'; 
 import CatchingdrillsPage from './static/general/catchingdrills.md'; 
+import FieldingdrillsPage from './static/general/fieldingdrills.md'; 
 import GamewarmupsPage from './static/general/gamewarmups.md'; 
 import ProperhittingPage from './static/general/properhitting.md'; 
 import ProperthrowingPage from './static/general/properthrowing.md'; 
@@ -58,6 +59,10 @@ export class About extends InternalMarkdownWrapper {
 
 export class Catchingdrills extends InternalMarkdownWrapper {
   readme = CatchingdrillsPage
+}
+
+export class Fieldingdrills extends InternalMarkdownWrapper {
+  readme = FieldingdrillsPage
 }
 
 export class Gamewarmups extends InternalMarkdownWrapper {

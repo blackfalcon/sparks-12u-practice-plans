@@ -33,6 +33,7 @@ import {
   Throwingprogression,
   Properhitting,
   Catchingdrills,
+  Fieldingdrills,
 
   Practice002,
   Practice003,
@@ -69,6 +70,8 @@ function App() {
             <Route exact path="/throwingprogression"><Throwingprogression /></Route>
             <Route exact path="/properhitting"><Properhitting /></Route>
             <Route exact path="/catchingdrills"><Catchingdrills /></Route>
+            <Route exact path="/fieldingdrills"><Fieldingdrills /></Route>
+
 
             {/* Blog */}
             <Route exact path="/blog/warmups"><Warmups /></Route>

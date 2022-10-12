@@ -35,9 +35,10 @@ export default function SideNav(props) {
       ]
     },
     {
-      header: "Catching",
+      header: "At-home drills",
       items: [
-        { linkTitle: "At-home drills", route: "/catchingdrills", parent: true },
+        { linkTitle: "Catching", route: "/catchingdrills", parent: true },
+        { linkTitle: "Fielding", route: "/fieldingdrills", parent: true },
       ]
     },
     // {

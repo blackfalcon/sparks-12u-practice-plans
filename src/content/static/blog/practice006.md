@@ -34,5 +34,3 @@ Catchers gear NOT NEEDED.
 <link rel="stylesheet" href="https://unpkg.com/@alaskaairux/webcorestylesheets@latest/dist/bundled/essentials.css" />
 
 <script src="https://unpkg.com/@aurodesignsystem/auro-alert@latest/dist/auro-alert__bundled.js" type="module"></script>
-
-<!-- save this for later https://youtu.be/EVzejJ-z5fM>
