@@ -6,10 +6,10 @@ It is important that all players arrive at least <code>10min</code> prior to sch
 
 Weekly practices cover a lot, but these practice days alone will not make you a pro. Please use the links provided here to come up with a home practice routine. Pitchers and [catchers](/catchingdrills) are highly encouraged to have a separate additional routine as well. If we are not practicing, at least 30 min at-home work is great! Please don't forget to stretch.
 
-<auro-hyperlink type="cta" relative href="/blog/practice006">
+<auro-hyperlink type="cta" relative href="/blog/practice007">
   <auro-icon category="interface" name="chevron-left" customColor style="line-height: 1"></auro-icon> Last Practice
 </auro-hyperlink>
-<auro-hyperlink type="cta" relative href="/blog/practice007">
+<auro-hyperlink type="cta" relative href="/blog/practice008">
   Next Practice <auro-icon category="interface" name="chevron-right" customColor style="line-height: 1"></auro-icon>
 </auro-hyperlink>
 
