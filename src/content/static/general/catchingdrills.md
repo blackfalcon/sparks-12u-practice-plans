@@ -29,7 +29,20 @@ It's the recommendation of the coaches that if the player doesn't have a schedul
       <iframe src="https://www.youtube.com/embed/FdaT2HgqwhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
+  <div>
+    <h4>Throwing/Footwork</h4>
+    <div class="video_wrapper">
+      <iframe src="https://www.youtube.com/embed/Ggp0lo4l_1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div>
+    <h4>Receive/Frame Pitches</h4>
+    <div class="video_wrapper">
+      <iframe src="https://www.youtube.com/embed/Y-vOuC2HNVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
 </div>
+
 
 <style>
 .video_wrapper {
